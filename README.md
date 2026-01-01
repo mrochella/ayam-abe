@@ -29,3 +29,37 @@ Partnered directly with restaurant stakeholders to analyze operational workflows
 ✅ Real-time visibility into sales performance  
 ✅ Data-driven insights for menu optimization  
 ✅ Streamlined operations for staff efficiency
+
+## ✨ Key Features
+
+### Transaction Management
+- **Point of Sale (POS)**: Digital order entry and processing
+- **Receipt Generation**: Automated invoice creation
+- **Transaction History**: Complete sales record tracking
+- **Payment Tracking**: Multiple payment method support
+- **Daily Sales Reports**: End-of-day reconciliation
+
+### Inventory Management
+- **Stock Level Tracking**: Real-time inventory monitoring
+- **Ingredient Management**: Recipe-to-inventory linking
+- **Purchase Order Tracking**: Supplier order management
+- **Stock Movement History**: Audit trail for inventory changes
+
+### Menu Management
+- **Menu Item CRUD**: Add, edit, remove menu items
+- **Pricing Control**: Dynamic price management
+- **Category Organization**: Grouped menu display
+- **Availability Status**: Mark items as available/unavailable
+
+### Business Intelligence Dashboard
+- **Sales Analytics**: Daily, weekly, monthly revenue trends
+- **Popular Items**: Best-selling menu item analysis
+- **Peak Hours**: Transaction time pattern analysis
+- **Inventory Value**: Current stock worth calculation
+- **Profit Margins**: Revenue vs. cost analysis
+
+### User Management
+- **Role-Based Access**: Admin, cashier, kitchen staff roles
+- **User Authentication**: Secure login system
+- **Activity Logging**: User action audit trail
+- **Permission Control**: Feature access by role
